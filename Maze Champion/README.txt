@@ -18,11 +18,9 @@ http://code.compartmental.net
 
 Instructions for getting the code to work:
 
-The zip file contains source code, this README file and the final project report.
-
 The code can be made to work following either of the following options : 
 
-1. The zip file contains maze_growing_2 folder which contains maze_growing_2.pde which is a processing project file.
+1. The maze_growing_2 folder contains maze_growing_2.pde which is a processing project file.
    Once you open it in processing, the please run the project to start the game (CTRL + R).
 
 2. The maze_growing_2\application.windows64 folder contains maze_growing_2 application file that can be run directly.   
